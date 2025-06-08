@@ -1,7 +1,7 @@
 # ITX-case
 A slightly changed version of the 3D-printable case from NFC.
 
-This case uses a mini-ITX motherboard, Felx-ATX PSU and dual-slot low-profile GPU.
+This case uses a mini-ITX motherboard, Flex-ATX PSU and dual-slot low-profile GPU.
 
 I modified the files from NFC to add 3D-printable side panels, top and bottom ventilation, a handle and make sure the 8-pin PCIe power connector fits into a low-profile RTX 4060.
 
